@@ -1,2 +1,18 @@
 # Project exclude paths
 /target/
+.idea　　　　
+.mvn　　　　
+.iml
+mvnw
+mvnw.cmd
+logs/
+target/
+help.md
+
+.settings
+.classpath
+
+
+/node_modules/
+/dist/
+/build/
